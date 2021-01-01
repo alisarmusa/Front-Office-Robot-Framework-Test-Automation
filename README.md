@@ -1,5 +1,6 @@
-# Front-Office-Robot-Framework-Test-Automation
-Front Office is an example of test automation using Robot Framework
+# Front Office is an example of test automation using Robot Framework
+
+# Type Terminal : robot -d Results Tests/Front-Office.robot
 
 
 ![Front-Office](Results/selenium-screenshot-1.png)
